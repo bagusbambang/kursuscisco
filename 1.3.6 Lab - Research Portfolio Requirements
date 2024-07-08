@@ -1,1 +1,119 @@
+Lab - Research Portfolio Requirements
+Objectives
+In this lab, you will explore Data Analyst Portfolios and create checklist to showcase data analyst skills.
 
+Part 1: Research Data Analyst Portfolios
+
+Part 2: Create Data Analyst Skills Checklist
+
+Background / Scenario
+A data analytics portfolio highlights your work and displays your personal branding and communication skills. A data analysist needs to also have a plan to develop the necessary skills and to perform and present their projects to prospective employers. Use this lab as a starting point to begin your Data Analyst Portfolio. As you progress through the course, you can use the activities within the course to build out your first analytic project.
+
+Required Resources
+Mobile device or PC/laptop with a browser and an internet connection
+Instructions
+Part 1: Research Data Analyst Portfolios
+Step 1: Search for data analyst portfolios.
+
+Using a web browser, search for example data science portfolios.
+Select some portfolios and read through and note the range of content and presentation styles.
+The website https://careerfoundry.com/en/blog/data-analytics/data-analytics-portfolio-examples/ examines portfolio examples.
+Step 2: List possible projects.
+
+Make a list of some of the interesting projects that are highlighted in the portfolios that you viewed.
+
+Also include projects that you might be interested in pursuing, ones where you where would like to conduct data research, such as hobbies, sports, or other interests.
+
+Step 3: Consider possible portfolio styles.
+
+Consider how you might want to present your projects in your portfolio. Select a style that reflects your personality and goals.
+
+Examine the examples you have found to determine the media and layout styles that represent you to a prospective employer’s expectations.
+
+Step 4: Create a portfolio checklist.
+
+Develop a checklist of the components that you see in the portfolios you viewed.
+As you work through the activities in the course, update the checklist as you complete each item on the list.
+Part 2: Create Data Analyst Skills Checklist
+Step 1: Search for data analyst job skills.
+
+Search the internet for data analyst jobs in your specific country or region.
+
+One site to consider is https://www.ziprecruiter.com/n/Data-Analyst-Jobs-Near-Me.
+
+Sites such as https://www.thinkful.com/blog/entry-level-data-analyst/ are also useful.
+
+Note the job requirements and essential skills for entry-level or junior data analysts. Some skills to look for include:
+
+SQL
+
+Microsoft Excel
+
+Statistics
+
+Data visualization
+
+Presentation and communication skills
+
+Critical thinking
+
+It is important to separate how these skills relate to entry-level roles and the expectation for more experienced roles.
+
+Step 2: Create a checklist of data analyst skills.
+
+Create a checklist of the job requirements for the role of data analyst. As you learn and practice each skill note your level of proficiency – perhaps use a scale like none, basic, intermediate, and advanced.
+
+Continuously update your resume and portfolio as you progress through your checklist.
+
+Part 3: Setting Up a GitHub Repository for Your Portfolio
+GitHub is a hosting platform that provides collaboration and version control service to individuals and organizations. In this part, you will create a personal GitHub account and a repository for your use.
+
+Step 1: Explore GitHub.
+
+Navigate to GitHub Documentation or search for github documentation using a web browser.
+Click Get Started to review some of the basic features of GitHub.
+What types of accounts (products) are available on GitHub?
+Answer Area
+<!----><!---->
+What can you do with a personal account?
+Answer Area
+<!----><!---->
+Step 2: Create a personal account.
+
+A GitHub account is necessary to create a repository. A repository is where you can organize your project and store your files and folders for a single project.
+
+In this step, you will create a personal GitHub account.
+
+Navigate to GitHub to sign up for an account.
+Note: If you already have a GitHub account, verify that you have already logged out of the account.
+In the Email address field, enter a valid email address and click Sign up for GitHub to continue to the Welcome screen.
+In the Welcome screen, verify your email address, create a password, enter a username, answer the question regarding receiving products and updates via email, and solve puzzles. Click Create account to create the new user account. You will receive a code from GitHub in the provided email address.
+Enter the provided launch code and your account is ready for use.
+Answer personal prompts and click Continue. Click Continue on the feature screen without any selections. Click Continue free after reviewing the features of the free account.
+Step 3: Create a new private repository.
+
+Now that you have a new user account, you will create a new private repository.
+
+Log into GitHub using your new user account as necessary.
+
+Click Create a new repository.
+
+Enter a repository name of your choice in the Repository name field. Provide a description of the repository if desired. Select Private to a create a private repository. Select Add a README file. Click Create repository to continue.
+
+Step 4: Manage files in the repository.
+
+Files can be uploaded to the repository or create new files with the repository. If you have already created a README file, you can copy the content of the README file into the existing README file in the repository.
+
+In this step, you will upload a file to the repository. For more file management information, refer to the GitHub docs regarding repositories. (https://docs.github.com/en/repositories).
+
+In the newly created repository, click Add file > Upload files to upload a new file under the <> Code tab.
+
+You can either drag or click choose your files to add the file to the repository. Click Commit changes to save the changes directly to the main branch.
+
+Reflection Questions
+Reflect upon the skills required by a data analyst role and consider what additional, or enhanced, skills that are required to develop the projects for your portfolio that interest you and where you see your data analyst career leading you.
+
+Challenge Activities
+The Square Kilometer Array (SKA) telescope project (https://www.skatelescope.org/the-ska-project/) and the James Webb Telescope (https://www.nasa.gov/mission_pages/webb/main/index.html) are very long-term astronomy projects that will produce almost unimaginable volumes of data over the lifetime of each project.
+
+Think about the data skills that will have to be applied to analyze this data, and what processes may have to be developed to manage this analysis into the future.
